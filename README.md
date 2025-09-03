@@ -48,11 +48,6 @@ A aplicação possui as seguintes funcionalidades:
 
 Este projeto foi desenvolvido **para fins acadêmicos e de estudo**.
 
-Inspiração de design e cores:
-
-- [Glassmorphism CSS Examples](https://dribbble.com/tags/glassmorphism)
-- [Neon UI Inspiration](https://dribbble.com/tags/neon_ui)
-
 ---
 
 ## 🇺🇸 English Version
